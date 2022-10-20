@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Владимир\source\repos\Lab4\Project2\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Владимир\source\repos\Lab4\Project2\Weapon.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Weapon.cpp
+C:\Users\Владимир\source\repos\Lab4\Project2\Weapon.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Владимир\source\repos\Lab4\x64\Debug\Project2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Project2.vcxproj -> C:\Users\Владимир\source\repos\Lab4\x64\Debug\Project2.exe
