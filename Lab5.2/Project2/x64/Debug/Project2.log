@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\vovao\source\repos\Vladimir\Lab5\Project2\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\vovao\source\repos\Vladimir\Lab5\Project2\Weapon.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Project2.vcxproj -> C:\Users\vovao\source\repos\Vladimir\Lab5\x64\Debug\Project2.exe
