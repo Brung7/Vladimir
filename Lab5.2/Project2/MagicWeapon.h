@@ -13,7 +13,7 @@ public:
 	int GetDamageM() {
 		return GetAddDamage() + Weapon::Getdamage();
 	}
-	void attack() {
-		cout << "Àòàêóåì ìàãè÷åñêèì îðóæèåì" << endl;;
+	void attack() override{
+		cout << "Ã€Ã²Ã ÃªÃ³Ã¥Ã¬ Ã¬Ã Ã£Ã¨Ã·Ã¥Ã±ÃªÃ¨Ã¬ Ã®Ã°Ã³Ã¦Ã¨Ã¥Ã¬" << endl;;
 	}
 };
